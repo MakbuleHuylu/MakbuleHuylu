@@ -3,6 +3,6 @@ I'm a first-year Computer science student who is passionate about software devel
 
 - 👋 Hi, I’m @MakbuleHuylu
 - 🎓Education:[Karadeniz Teknin university], Computer science, 1st year.
-- 💻Currently learining: C, Data Structures & Algorithms, Python
+- 💻I'm learning right now: C, Data Structures & Algorithms, Python
 - 📫 How to reach me: [makbulehuylu878@gmail.com] 
 - ⚡ Nothing beats the thrill of fixing a stubborn bugit's like winning a mini battle!..
